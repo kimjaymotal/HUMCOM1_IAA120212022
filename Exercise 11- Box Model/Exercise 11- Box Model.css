@@ -1,0 +1,88 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+     margin-top: 100px;
+     margin-bottom: 100px;
+     margin-right: 150px;
+     margin-left: 150px;
+     color: beige;
+     background-color: rgb(43, 43, 43);
+     
+}
+
+#headerimg{ float: left;
+            border: 1px solid rgb(0, 0, 0);
+            width: 230px;
+            height: 200px;
+            margin-right: 20px;
+            border-radius: 50%;
+    
+}
+
+    #button1{
+        border: 1px solid rgb(0, 0, 0);
+        display: inline;
+        padding: 20px;
+        margin-left: 40px;
+        margin-right: 10px;
+        border-radius: 30%;
+        background-color: rgb(145, 146, 146);
+    }
+    #button2{
+        border: 1px solid rgb(0, 0, 0);
+        display: inline;
+        padding: 20px;
+        margin-left: 40px;
+        margin-right: 10px;
+        border-radius: 30%;
+        background-color: rgb(145, 146, 146);
+    }
+    #button3{
+        border: 1px solid rgb(0, 0, 0);
+        display: inline;
+        padding: 20px;
+        margin-left: 40px;
+        margin-right: 10px;
+        border-radius: 30%;
+        background-color: rgb(145, 146, 146);
+    }
+    #button4{
+        border: 1px solid rgb(0, 0, 0);
+        display: inline;
+        padding: 20px;
+        margin-left: 40px;
+        margin-right: 10px;
+        border-radius: 30%;
+        background-color: rgb(145, 146, 146);
+    }
+fieldset{
+    margin-bottom: 30px;
+    border-radius: 1%;
+}
+section{
+    margin-bottom: 40px;
+}
+#Movie{
+    background-image: url("../Exercise 11- Box Model/_image/EDGE.jpg");
+    background-size: 100% 100%;
+    border: 1px solid rgb(189, 189, 189);
+    margin-inline: 50px;
+    padding: 70px;
+}
+#Food{
+    background-image: url("../Exercise 11- Box Model/_image/Pork-Adobo--500x375.jpg");
+    background-size: 100% 100%;
+    border: 1px solid rgb(189, 189, 189);
+    margin-inline: 50px;
+    padding: 70px;
+}
+#Game{
+    background-image: url("../Exercise 11- Box Model/_image/nier_remaster_replicant_screenshot_12.jpg");
+    background-size: 100% 100%;
+    border: 1px solid rgb(189, 189, 189);
+    margin-inline: 50px;
+    padding: 70px;
+}
+
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+}
