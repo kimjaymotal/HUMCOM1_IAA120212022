@@ -1,0 +1,62 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+#header{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+#headernav{
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+#first{
+    text-align: center;
+}
+#re,#eng{
+    margin-right: 50px;
+}
+
+
+/*end of box top*/
+
+#article{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    
+    margin-bottom: 30px;
+    margin-left: 190px;
+    
+}
+
+#para1,#para2,#articleh{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+img{
+    float:right;
+   
+    position:sticky;
+}
+/*end of box right*/
+#navigation{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    float: left;
+    
+}
+#nav,footer{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+
+}
+/*end of box right*/
+
