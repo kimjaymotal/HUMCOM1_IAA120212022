@@ -1,0 +1,1 @@
+alert("Motal, Kim Jay S.\n BSCS IAA1 \n1st year \nIAA1 \nHUMCOM1")

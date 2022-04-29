@@ -1,0 +1,1 @@
+document.getElementById("target").innerHTML="Motal, Kim Jay S.,<br> BSCS IAA1 <br>1st year <br>IAA1 <br>HUMCOM1"; 
