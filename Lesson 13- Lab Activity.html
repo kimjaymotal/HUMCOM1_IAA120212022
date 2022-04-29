@@ -1,0 +1,59 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <title>java script</title> 
+          <meta name="author" content="Motal, Kim Jay S." />
+    </head> 
+    <body>
+        <script>
+            document.write("Hello Word");
+            var word = "This is ";
+            var moreword ="a sentence";
+            var sentence = word+moreword;
+            document.write(sentence);
+
+            var num1 = 6;
+            var num2 = 6;
+            var total = num1+num2;
+            document.write(total);
+
+            var alpha ="ABCDEFG";
+            var length = alpha.length;
+            document.write(length);
+            
+            var result = alpha.substring(3,5);
+            document.write(result);
+            // simple array
+            var a = new Array(5);
+            a[0]="string";
+            a[1]="String";
+            a[2]=123;
+            a[3]= true;
+            a[4]=false;
+
+            //all in one Array
+            var b =new Array("string","string",true,123,false);
+            document.write(b[3]);
+            // Function
+            function sayHello(name){
+                document.write("Hello"+name);
+            }
+            sayHello("bob");
+            document.write("<br>");
+            sayHello("Mary");
+            //java script if else
+            var c ="jake";
+            if (a=="Jake"){
+                alert("Helo");
+            }else{
+                alert("Somethings wrong");
+            }
+            //for loop
+            for(i=0;i<5;i++){
+                document.write(i)
+            }
+
+        </script>
+        
+    </body>
+</html>
